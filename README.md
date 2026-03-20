@@ -1,24 +1,24 @@
-# 🎨 RumiToolBox
+# 🎨 Artist ToolBox
 
 ![RumiToolBox Screenshot](assets/readme-screenshot.png)
 
-RumiToolBox is a multi-purpose desktop application built with **Electron, React, and Vite**. It is designed as an all-in-one toolbox to streamline digital content creation, featuring a sleek, dark-themed responsive interface.
+Artist ToolBox is a multi-purpose desktop application built with **Electron, React, and Vite**. It is designed as an all-in-one toolbox to streamline digital content creation, featuring a sleek, dark-themed responsive interface.
 
-## ✨ Features
+##  Features
 
-- **📱 Social Media Cropper**: Easily upload and crop images to perfect aspect ratios for various platforms (Instagram Square/Story, Twitter headers, etc.).
-- **🎨 Palette Generator**: Extract or generate beautiful color palettes to use in your art.
-- **🔄 Image Converter**: Instantly convert images between formats efficiently.
-- **🎵 YT to MP3**: Quickly download and convert YouTube links into MP3 audio!
+- ** Social Media Cropper**: Easily upload and crop images to perfect aspect ratios for various platforms (Instagram Square/Story, Twitter headers, etc.).
+- ** Palette Generator**: Extract or generate beautiful color palettes to use in your art.
+- ** Image Converter**: Instantly convert images between formats efficiently.
+- ** YT to MP3**: Quickly download and convert YouTube links into MP3 audio!
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Electron**: Bringing web technologies to native desktop.
 - **React**: Powerful, component-based UI development.
 - **Vite**: Ultra-fast build tool and development server.
 - **CSS3**: Custom, modern dark-mode styling with glassmorphism touches.
 
-## 🛠️ Running Locally
+##  Running Locally
 
 1. Clone this repository:
    ```bash
