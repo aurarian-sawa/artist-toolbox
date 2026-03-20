@@ -13,10 +13,10 @@ Artist ToolBox is a multi-purpose desktop application built with **Electron, Rea
 
 ##  Tech Stack
 
-- **Electron**: Bringing web technologies to native desktop.
-- **React**: Powerful, component-based UI development.
-- **Vite**: Ultra-fast build tool and development server.
-- **CSS3**: Custom, modern dark-mode styling with glassmorphism touches.
+- **Electron **: Bringing web technologies to native desktop.
+- * *React **: Powerful, component-based UI development.
+- ** Vite **: Ultra-fast build tool and development server.
+-  ** CSS3 **: Custom, modern dark-mode styling with glassmorphism touches.
 
 ##  Running Locally
 
