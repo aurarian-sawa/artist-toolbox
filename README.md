@@ -2,7 +2,7 @@
 
 ![RumiToolBox Screenshot](assets/readme-screenshot.png)
 
-Artist ToolBox is a multi-purpose desktop application built with **Electron, React, and Vite**. It is designed as an all-in-one toolbox to streamline digital content creation, featuring a sleek, dark-themed responsive interface.
+RumiToolBox is a multi-purpose desktop application built with **Electron, React, and Vite**. It is designed as an all-in-one toolbox to streamline digital content creation, featuring a sleek, dark-themed responsive interface.
 
 ## Features
 
@@ -13,10 +13,10 @@ Artist ToolBox is a multi-purpose desktop application built with **Electron, Rea
 
 ## Tech Stack
 
-- **Electron **: Bringing web technologies to native desktop.
-- * *React **: Powerful, component-based UI development.
-- ** Vite **: Ultra-fast build tool and development server.
--  ** CSS3 **: Custom, modern dark-mode styling with glassmorphism touches.
+- **Electron**: Bringing web technologies to native desktop.
+- **React**: Powerful, component-based UI development.
+- **Vite**: Ultra-fast build tool and development server.
+- **CSS3**: Custom, modern dark-mode styling with glassmorphism touches.
 
 ## Running Locally
 
