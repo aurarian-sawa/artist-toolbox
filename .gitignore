@@ -30,3 +30,7 @@ release/
 # Environment variables
 .env
 .env.*
+
+# Downloads
+downloads/
+

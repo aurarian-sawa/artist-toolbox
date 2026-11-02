@@ -22,11 +22,11 @@ RumiToolBox is a multi-purpose desktop application built with **Electron, React,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aurarian-sawa/RumiToolBox.git
+   git clone https://github.com/aurarian-sawa/artist-toolbox.git
    ```
 2. Navigate to the project folder and install dependencies:
    ```bash
-   cd RumiToolBox
+   cd artist-toolbox
    npm install
    ```
 3. Start the development server:
